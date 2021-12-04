@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "swapi",
+    "slug": "swapi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "swapi"
+}
